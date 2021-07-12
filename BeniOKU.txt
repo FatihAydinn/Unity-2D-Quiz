@@ -1,0 +1,9 @@
+Coğrafi Keşif oyunu mobil platformlara özel hazırlandığı için bilgisayardan açılması durumunda ekran çözünürlüğüne göre farklı çıktı verebilir.
+
+Eğer yazılar iç içe geçtik durumda ise çözünürlük ayarlarınızı değiştirmeniz tavsiye edilir.
+
+
+
+
+
+ - Ahmet Fatih AYDIN 
