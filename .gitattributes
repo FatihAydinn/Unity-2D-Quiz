@@ -1,2 +1,18 @@
-*.csharp linguist-detectable=true
-*.asp.net linguist-detectable=false
+* text=auto
+
+# Explicitly declare text files we want to always be normalized and converted 
+# to native line endings on checkout.
+*.c text
+*.h text
+
+# Declare files that will always have CRLF line endings on checkout.
+*.sln text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.dll binary
+*.gif binary
+*.ico binary
+
+core.autocrlf=true
