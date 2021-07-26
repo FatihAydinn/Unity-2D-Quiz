@@ -5,5 +5,3 @@
 ### github.com/FatihAydinn
 
 
-*.csharp linguist-detectable=true
-
